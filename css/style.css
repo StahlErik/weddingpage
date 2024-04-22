@@ -9456,6 +9456,12 @@ a.text-dark:hover, a.text-dark:focus {
   font-family: 'Great Vibes', cursive;
 }
 
+.special-elite-regular {
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .btn-square {
   width: 40px;
   height: 40px;
