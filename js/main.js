@@ -1,5 +1,6 @@
 (function ($) {
     "use strict";
+    $('.navbar').hide();
 
     // Navbar on scrolling
     $(window).scroll(function () {
