@@ -9452,15 +9452,16 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 /********** Template CSS ************/
-.font-secondary {
+/* .font-secondary {
   font-family: 'Great Vibes', cursive;
-}
+} */
 
-.special-elite-regular {
-  font-family: "Special Elite", system-ui;
+ .font-secondary {
+  font-family: "Garamond", system-ui;
   font-weight: 400;
   font-style: normal;
 }
+
 
 .btn-square {
   width: 40px;
